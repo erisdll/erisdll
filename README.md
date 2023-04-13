@@ -1,4 +1,6 @@
-## NEARLYERIKA
+<p align=center>
+<img src="nearly_logo.png" alt=my_logo width=400>
+</p>
 
 ### Skills:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,3 +16,5 @@
 ### My Socials:
 ![](https://img.shields.io/badge/NEARLYERIKA-202020?style=for-the-badge&logo=steam&logoColor=white)
 ![](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)
+
+<img scr="my_assets/cool_bar.png" width=200>

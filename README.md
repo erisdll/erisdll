@@ -2,7 +2,7 @@
 <img src="nearly_logo.png" alt=my_logo width=400>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=nearlyerika&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=nearlyerika&theme=dark)
 
 ### Skills:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

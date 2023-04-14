@@ -2,6 +2,9 @@
 <br>
 <br>
 
+![](https://pride-badges.pony.workers.dev/static/v1?label=&stripeWidth=100&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=nearlyerika&theme=dark)
 ### Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

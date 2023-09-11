@@ -2,7 +2,6 @@
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=nearlyerika&theme=dark)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erika-mello/)

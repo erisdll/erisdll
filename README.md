@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Erika!</h2>
 
-<p align="center">Passionate back-end developer with a focus on web development and cloud technologies. Currently exploring TypeScript with NestJS and Java Spring.</p>
+<p align="center">Passionate back-end developer with a focus on web development and cloud technologies.<br>Currently exploring TypeScript with NestJS and Java Spring.</p>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/erika-mello/">

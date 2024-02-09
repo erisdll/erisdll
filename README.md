@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Erika!</h2>
 
 <div align="center">
-    <img src="https://i.imgur.com/B8lZ9ce.png" alt="Erika's Avatar" width="600px">
+    <img src="https://i.imgur.com/B8lZ9ce.png" alt="Erika's Avatar" width="80%">
 </div>
 
 <p align="center">Passionate back-end developer with a focus on web development and cloud technologies.<br>Currently exploring TypeScript with NestJS and Java Spring.</p>

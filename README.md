@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Erika!</h2>
 
 <div align="center">
-    <img src="./assets//lainheader.gif" alt="Erika's Avatar" width="80%">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dga1hon-e847f7f4-d043-401b-8a12-835610161118.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGdhMWhvbi1lODQ3ZjdmNC1kMDQzLTQwMWItOGExMi04MzU2MTAxNjExMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dPjaf8ceKRmqUmsHUbfHP0GdV8WmwuFzTjeO3TP7KD8" alt="Erika's Avatar" width="100%">
 </div>
 
 <p align="center">Passionate back-end developer with a focus on web development and cloud technologies.<br>Currently exploring TypeScript with NestJS and Java Spring.</p>
